@@ -1,0 +1,117 @@
+body{
+    background-color: #fdfdbd;
+}
+
+div{
+    background-color: #ADA2FF;
+    padding: 25px;
+}
+
+h1{
+    color: #6C4AB6;
+    padding: 20px;
+    font-size: 55px;
+    font-family: impact;
+}
+
+#project{
+    background-color: #d5bedf;
+    text-align: center;
+}
+
+a{
+    font-family: Courier;
+}
+
+a:link {
+    color:#452a80;
+    padding: 14px 25px;
+}
+
+a:visited{
+    color:#452a80;
+}
+
+
+
+.btn-outline-light{
+    color: #23163f;    
+    background-color: #6C4AB6;
+    border-color: #23163f;
+}
+
+h2{
+    font-size: 38px;
+    font-family: impact;
+    color: #6C4AB6;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.information{
+    font-family: century gothic;
+    background-color: rgb(250, 250, 200);
+    padding: 20px;
+    padding-left: 30px;
+}
+
+#icons{
+    width: 35px;
+}
+
+#thanks{
+    font-family: century gothic;
+    color:#23163f;
+    font-size: 20px;
+    padding: 15px;
+}
+
+#thanks-end{
+    background-color:#8e62ee;
+}
+
+#icon{
+    width: 90px;
+}
+
+#igualdad{
+    width: 200px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.contacto{
+    font-family: century gothic;
+    font-style: italic;
+    color: #23163f;
+}
+
+#EMUN{
+    width: 350px;
+    padding: 20px;
+    float: right;
+}
+
+#EMUN2{
+    width: 350px;
+    padding: 20px;
+    float: left;
+}
+
+#emun-text{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#col-p{
+    font-family:fantasy;
+    font-size: 20px;
+    background-color: #6C4AB6;
+    color:#1a0a3f;
+}
+
+#col-r{
+    font-family: century gothic;
+    background-color: #a29bd6;
+}
